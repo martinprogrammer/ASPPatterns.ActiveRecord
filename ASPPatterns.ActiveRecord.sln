@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPPatterns.ActiveRecord.Model", "ASPPatterns.ActiveRecord\ASPPatterns.ActiveRecord.Model.csproj", "{0A478565-394A-48E2-A04F-C91FD69010F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspPatterns.ActiveRecord.UI.MVC", "AspPatterns.ActiveRecord.UI.MVC\AspPatterns.ActiveRecord.UI.MVC.csproj", "{EDB42B52-43EA-49A9-8707-0AF8573C89EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A478565-394A-48E2-A04F-C91FD69010F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A478565-394A-48E2-A04F-C91FD69010F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A478565-394A-48E2-A04F-C91FD69010F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A478565-394A-48E2-A04F-C91FD69010F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB42B52-43EA-49A9-8707-0AF8573C89EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB42B52-43EA-49A9-8707-0AF8573C89EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB42B52-43EA-49A9-8707-0AF8573C89EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB42B52-43EA-49A9-8707-0AF8573C89EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
